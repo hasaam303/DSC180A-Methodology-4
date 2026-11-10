@@ -1,13 +1,7 @@
----
-layout: default
----
-
 - **Name:** Hasaam Butt
-- **UCSD Email:** [hbutt@ucsd.edu](mailto:hbutt@ucsd.edu)
+- **UCSD Email:** hbutt@ucsd.edu
 - **Section:** D27
 - **Mentor:** Mikhail Belkin
-
-## Quarter 2 Project Brainstorm
 
 **What is the most interesting topic covered in your domain this quarter?**
 
